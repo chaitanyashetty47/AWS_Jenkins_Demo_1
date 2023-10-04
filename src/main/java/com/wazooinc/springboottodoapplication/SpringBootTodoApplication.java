@@ -1,13 +1,13 @@
-package com.springboot.todo;
+package com.wazooinc.springboottodoapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootTodoAppApplication {
+public class SpringBootTodoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootTodoAppApplication.class, args);
+		SpringApplication.run(SpringBootTodoApplication.class, args);
 	}
 
 }
